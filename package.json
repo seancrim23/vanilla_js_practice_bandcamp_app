@@ -32,7 +32,7 @@
     "@babel/polyfill": "^7.4.4",
     "ajv": "^6.10.0",
     "cheerio": "^1.0.0-rc.3",
-    "json5": "^2.1.0",
+    "json5": "^2.2.2",
     "linez": "^4.1.4",
     "scrape-it": "^5.1.4",
     "tinyreq": "^3.4.1"
